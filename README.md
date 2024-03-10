@@ -1,7 +1,12 @@
-Welcome to the GitHub profile of a stupid kid who ports stuff! In my dreams!
+# Welcome to the GitHub profile of a stupid kid who ports stuff! In my dreams!
 
 *scratching head*  Where do I start?
 
-Main target is: Samsung Galaxy A21s
+# Main target
+Samsung Galaxy A21s
 
-I guess that is all you need to know.
+# Computer hardware specifications:
+4GB RAM
+128GB NVMe drive
+ Intel Celeron N5100
+ 1366x768 screen resolution
